@@ -24,9 +24,9 @@ MonoBehaviour:
   - 0
   - 0
   - 0
-  - 205
-  - 512
-  - 1024
+  - 0
+  - 0
+  - 0
   - 0
   - 0
   - 0
@@ -56,10 +56,10 @@ MonoBehaviour:
   - UI
   - 
   - 
-  - PW_VFX
-  - PW_Object_Small
-  - PW_Object_Medium
-  - PW_Object_Large
+  - PostProcessing
+  - Not in Reflection
+  - 
+  - 
   - 
   - 
   - 
@@ -90,9 +90,9 @@ MonoBehaviour:
   - 0
   - 0
   - 0
-  - 205
-  - 512
-  - 1024
+  - 0
+  - 0
+  - 0
   - 0
   - 0
   - 0
